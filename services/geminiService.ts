@@ -7,7 +7,7 @@ if (!apiKey) {
   throw new Error("API_KEY environment variable not set for GeminiService.");
 }
 
-const ai = new GoogleGenAI({ apiKey });
+const ai = new GoogleGenAI({ apiKey: "AIzaSyBoXD1If9qEEWg2GtqVica2uLzsXO0bqag" });
 
 export const generateText = async (prompt: string, systemInstruction?: string): Promise<string> => {
   try {
