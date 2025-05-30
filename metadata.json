@@ -1,0 +1,5 @@
+{
+  "name": "Assistente de Pesquisa Científica IA",
+  "description": "Um assistente integrado para pesquisa científica, combinando gerenciamento de literatura, assistência à escrita, organização de tarefas e ferramentas de formatação para otimizar o fluxo de trabalho do pesquisador. Utiliza IA para sumarização, geração de templates e sugestões de escrita.",
+  "requestFramePermissions": []
+}
